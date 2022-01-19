@@ -1,0 +1,6 @@
+Error at line 3 : Undeclared function
+
+Error at line 15 : Undeclared function
+
+Total Errors : 2 
+
